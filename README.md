@@ -19,8 +19,6 @@
 
 - You can reach me at utsabsapkota4231@gmail.com
 
-- Check my learning projects at https://gitlab.com/utsabsapkota4231
-
 ## ExtraActivities:
 - I have good knowledge on guitar and music theory.
 - I love playing football.
