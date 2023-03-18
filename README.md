@@ -17,7 +17,9 @@
 
 - I have little knowledge on linux, docker, jenkins, kubernetes, buildah, podman, golang, bash-scripting, ansible, terraform, aws, azure, git, github and other Devops tools.  
 
-###ExtraActivities:
+- You can reach me at utsabsapkota4231@gmail.com
+
+## ExtraActivities:
 - I have good knowledge on guitar and music theory.
 - I love playing football.
   
