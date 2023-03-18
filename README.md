@@ -15,7 +15,7 @@
 - I am always free to collaborate and learn from others  
   
 
-- I have little knowledge on linux, docker, jenkins, kubernetes, buildah, podman, golang, bash-scripting, ansible, terraform, aws, azure, git, github and other Devops Services.  
+- I have little knowledge on linux, docker, jenkins, kubernetes, buildah, podman, golang, bash-scripting, ansible, terraform, aws, azure, git, github and other Devops tools.  
 
 ###ExtraActivities:
 - I have good knowledge on guitar and music theory.
