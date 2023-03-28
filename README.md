@@ -15,7 +15,7 @@
 - I am always free to collaborate and learn from others  
   
 
-- I have little knowledge on linux, docker, jenkins, kubernetes, buildah, podman, golang, bash-scripting, ansible, terraform, aws, azure, git, github and other Devops tools.  
+- I have some knowledge on linux, docker, jenkins, kubernetes, golang, bash-scripting, ansible, puppet, terraform, aws, azure, git, github and other Devops tools.  
 
 - You can reach me at utsabsapkota4231@gmail.com
 
