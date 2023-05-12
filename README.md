@@ -19,7 +19,7 @@
 
 - You can reach me at utsabsapkota4231@gmail.com
 
-- Read my blogs: [bdevops.hashnode.dev](https://bdevops.hashnode.dev/)
+- Read my blogs: [bdevops.hashnode.dev](https://utsabsapkota.hashnode.dev/)
 
 ## ExtraActivities:
 - I have good knowledge on guitar and music theory.
