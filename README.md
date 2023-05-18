@@ -1,7 +1,8 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 80%" />
-</div>  
+
+![banner](https://github.com/utsab818/utsab818/assets/66249507/88d207dc-835c-40d2-a82f-c1d094d31054)
   
+ </div>
 
 # ***<div align="center">I'm Utsab, </div>***  
   
