@@ -1,6 +1,7 @@
 <div align="center">
 
-![banner](https://github.com/utsab818/utsab818/assets/66249507/88d207dc-835c-40d2-a82f-c1d094d31054)
+![image](https://github.com/utsab818/utsab818/assets/66249507/ab194d71-51bb-4572-9de5-0133cb7f6c38)
+
   
  </div>
 
