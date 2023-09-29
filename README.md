@@ -1,6 +1,7 @@
 <div align="center">
 
-![image](https://github.com/utsab818/utsab818/assets/66249507/ab194d71-51bb-4572-9de5-0133cb7f6c38)
+
+![Modern Colorful Gaming YouTube Channel Art](https://github.com/utsab818/utsab818/assets/66249507/3f248100-49d7-44be-8194-e710448726cc)
 
   
  </div>
