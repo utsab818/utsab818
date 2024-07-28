@@ -4,8 +4,6 @@
 
   
  </div>
-
-# ***<div align="center">I'm Utsab, </div>***  
   
 
 - I am passionate about DevOps and its practices.  
