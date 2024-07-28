@@ -1,7 +1,6 @@
 <div align="center">
 
-
-![Modern Colorful Gaming YouTube Channel Art](https://github.com/utsab818/utsab818/assets/66249507/3f248100-49d7-44be-8194-e710448726cc)
+  ![Law Firm LinkedIn page Cover Template with skyscrapers and place for text (3)](https://github.com/user-attachments/assets/1c5cd037-02be-414f-9a43-de69f143c82b)
 
   
  </div>
@@ -12,7 +11,7 @@
 - I am passionate about DevOps and its practices.  
   
 
-- 🌱 I’m currently learning Kubernetes and  Golang  
+- I’m currently learning Kubernetes and  Golang  
   
 
 - I am always free to collaborate and learn from others  
